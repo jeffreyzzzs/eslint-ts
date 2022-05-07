@@ -1,14 +1,13 @@
 {
-  "name": "@nicepack/eslint-ts",
+  "name": "@jeffrey/eslint-ts",
   "version": "2.2.1",
   "description": "ESLint config for Nicepack with Typescript support",
   "main": "index.js",
   "keywords": [
-    "nicepack",
     "eslint",
     "typescript"
   ],
-  "author": "Zolboobayar Gantumur <zaccess33rus@gmail.com>",
+  "author": "Jeffrey Zhang",
   "license": "MIT",
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^5.12.1",

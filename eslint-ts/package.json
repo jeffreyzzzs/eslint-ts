@@ -1,7 +1,7 @@
 {
-  "name": "@jeffrey/eslint-ts",
-  "version": "2.2.1",
-  "description": "ESLint config for Nicepack with Typescript support",
+  "name": "@jeffreyzzzs/eslint-ts",
+  "version": "2.2.2",
+  "description": "ESLint config with Typescript",
   "main": "index.js",
   "keywords": [
     "eslint",

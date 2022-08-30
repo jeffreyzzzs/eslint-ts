@@ -1,1 +1,1 @@
-# Jeffrey pack
+# eslint ts package
